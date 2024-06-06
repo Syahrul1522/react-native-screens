@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/f574d1aba862c39de4ce7ceb25dcf18e/material-1.1.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/96551e62d081c6d42feaa1b25e15d04d/jetified-react-native-0.68.5/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/f574d1aba862c39de4ce7ceb25dcf18e/material-1.1.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/f574d1aba862c39de4ce7ceb25dcf18e/material-1.1.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/f574d1aba862c39de4ce7ceb25dcf18e/material-1.1.0/res/xml/standalone_badge.xml"
+    }
+]

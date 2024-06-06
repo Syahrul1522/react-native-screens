@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/f12e9626d15eca179351657af6bac134/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/react-native-screens/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/f12e9626d15eca179351657af6bac134/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
